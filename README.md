@@ -14,28 +14,28 @@
 
 ### Screenshots
 ---
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/1.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/1.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/2.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/2.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/3.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/3.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/4.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/4.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/5.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/5.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/6.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/6.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/7.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/7.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/8.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/8.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/9.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/9.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/10.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/10.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/11.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/11.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/12.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/12.png)
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/13.jpg)
+![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/13.png)
