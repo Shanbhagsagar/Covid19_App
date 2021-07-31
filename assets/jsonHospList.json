@@ -1,0 +1,62 @@
+{
+  "Dadar": [
+    {
+      "hosp_name": "Sanjeevanee Hospital",
+      "hosp_address": "172/A, Naigaum, Dadar East, Mahatma Jyotiba Phule Road, Mumbai, Maharashtra 400014",
+      "hosp_phone": "+912224112600",
+      "hosp_direction": "https://maps.app.goo.gl/t55N2d8s7JnZDED29"
+    },
+    {
+      "hosp_name": "Thakur Hospital",
+      "hosp_address": "Vidya Bhavan, 1st Floor, 121, Shivaji Park, Opposite Shivsena Bhavan, Dadar West, Mumbai, Maharashtra 400028",
+      "hosp_phone": "+912224463517",
+      "hosp_direction": "https://maps.app.goo.gl/pUd8xVGUDcqia25F7"
+    },
+    {
+      "hosp_name": "Navneet Jain Health Centre",
+      "hosp_address": "12, Gyan Mandir Road, Near Kabutar khana, Dadar West, Dadar, Mumbai, Maharashtra 400028",
+      "hosp_phone": "+912224382121",
+      "hosp_direction": "https://maps.app.goo.gl/vwBtCxVBiRpknE858"
+    }
+  ],
+  "Thane": [
+    {
+      "hosp_name": "Kaushalya Hospital",
+      "hosp_address": "Namdev Wadi, opp. Nitin Company, Ramabai Ambedkar Nagar, Ganeshwadi, Thane West, Thane, Maharashtra 400601",
+      "hosp_phone": "+912225454000",
+      "hosp_direction": "https://maps.app.goo.gl/LCbjhjTDh5z2AEuq6"
+    },
+    {
+      "hosp_name": "Sapphire Hospital",
+      "hosp_address": "Kaveri Heights, Opposite Old Mhatre Talao, Premnagar, Kharegaon, Kalwa West, Thane, Maharashtra 400605",
+      "hosp_phone": "+912225333222",
+      "hosp_direction": "https://maps.app.goo.gl/cRbqEojZjq4oDfes5"
+    },
+    {
+      "hosp_name": "Kalsekar Hospital",
+      "hosp_address": "Opposite Kalsekar Degree College, Dawla Village, Kausa, Mumbra, Thane, Maharashtra 400612",
+      "hosp_phone": "+918104242551",
+      "hosp_direction": "https://maps.app.goo.gl/aRxCU1YCBHJgiJ7f7"
+    }
+  ],
+  "Andheri": [
+    {
+      "hosp_name": "Seven Hills Hospital",
+      "hosp_address": "Marol Maroshi Rd, Shivaji Nagar JJC, Marol, Andheri East, Mumbai, Maharashtra 400059",
+      "hosp_phone": "+912267676766",
+      "hosp_direction": "https://maps.app.goo.gl/jhCQDLGuzxncErgF8"
+    },
+    {
+      "hosp_name": "Mukund Hospital",
+      "hosp_address": "Andheri - Kurla Rd, Bori Colony, Kadam Wadi, J B Nagar, Andheri East, Mumbai, Maharashtra 400059",
+      "hosp_phone": "+912261116888",
+      "hosp_direction": "https://maps.app.goo.gl/LNdpcU2zsGffqEMz6"
+    },
+    {
+      "hosp_name": "Medicare Hospital",
+      "hosp_address": "Near Petrol Pump, Marol Naka, Andheri Kurla Road, Andheri East, Mumbai, Maharashtra 400059",
+      "hosp_phone": "+912228302364",
+      "hosp_direction": "https://maps.app.goo.gl/g6kxx9JhdGTR2BfG7"
+    }
+  ]
+}
